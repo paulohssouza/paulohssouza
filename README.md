@@ -1,16 +1,14 @@
-### Hi there 👋
+<h1 align="left">Hi!<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"><br><br>I am Paulo Henrique, and that's my profile!</h1>
 
-<!--
-**paulohssouza/paulohssouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Android Developer (Kotlin and Java),
 
-Here are some ideas to get you started:
+Currently in training within the back end area with Java and Data Science with Python.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 Talk to me:
+<br><br>[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulo-hs-souza/)
+[![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:paulohss.souza@gmail.com)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=paulohssouza&show_icons=true&theme=tokyonight)](https://github.com/paulohssouza/)
+
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulohssouza&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/)
