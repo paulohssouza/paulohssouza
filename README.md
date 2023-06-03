@@ -2,8 +2,8 @@
 
 Developer Kotlin, Java, Html, CSS,
 
-Currently in training within the back-end area with Java and Data Science with Python.
-Knowledge in agile methodologies, unit testing, object-oriented programming.
+<p>Currently in training within the back-end area with Java and Data Science with Python.<p>
+<p>Knowledge in agile methodologies, unit testing, object-oriented programming.<p>
 
 - 📫 Talk to me:
 <br><br>[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulo-hs-souza/)
